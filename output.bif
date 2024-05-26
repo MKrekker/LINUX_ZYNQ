@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]/home/krek07/Documents/ZYNQ/LINUX/linux/linux.sdk/FSBL/Debug/FSBL.elf
+	/home/krek07/Documents/ZYNQ/LINUX/linux/linux.sdk/system_wrapper_hw_platform_0/system_wrapper.bit
+	/home/krek07/Documents/u-boot-xlnx/u-boot.elf
+}
